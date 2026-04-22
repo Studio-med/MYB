@@ -1,0 +1,23 @@
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "name": "المدير العام",
+    "redirect": "dashboard.html"
+  },
+  {
+    "username": "inspector",
+    "password": "insp456",
+    "role": "inspector",
+    "name": "المفتش",
+    "redirect": "inspections.html"
+  },
+  {
+    "username": "viewer",
+    "password": "view789",
+    "role": "viewer",
+    "name": "المراقب",
+    "redirect": "reports.html"
+  }
+]
